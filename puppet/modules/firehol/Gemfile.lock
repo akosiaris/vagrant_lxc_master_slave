@@ -36,7 +36,7 @@ GEM
     puppet-lint (2.3.5)
     puppet-strings (2.0.0)
       rgen
-      yard (~> 0.9.5)
+      yard (~> 0.9.20)
     puppet-syntax (2.4.1)
       rake
     rake (12.3.1)

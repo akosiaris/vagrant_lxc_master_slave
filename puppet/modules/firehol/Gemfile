@@ -8,7 +8,7 @@ gem 'git'
 gem 'net-ssh'
 gem 'logger-colors', '~> 1.0'
 gem 'puppet-strings'
-gem 'yard'
+gem 'yard', ">= 0.9.20"
 gem 'redcarpet'
 gem 'github-markup'
 gem 'apipie-bindings'
